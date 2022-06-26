@@ -1,0 +1,8 @@
+D:\Projects\C#\Temp\Temp\bin\Debug\Temp.exe.config
+D:\Projects\C#\Temp\Temp\bin\Debug\Temp.exe
+D:\Projects\C#\Temp\Temp\bin\Debug\Temp.pdb
+D:\Projects\C#\Temp\Temp\obj\Debug\Temp.csproj.AssemblyReference.cache
+D:\Projects\C#\Temp\Temp\obj\Debug\Temp.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Temp\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Temp\Temp\obj\Debug\Temp.exe
+D:\Projects\C#\Temp\Temp\obj\Debug\Temp.pdb
