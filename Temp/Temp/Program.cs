@@ -10,29 +10,19 @@ namespace Temp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a string");
-            String str = Console.ReadLine();
-            int vowels = 0;
+            int[][] arr = new int[3][];
+            arr[0] = new int[] { 1, 2, 3, 4 };
+            arr[1] = new int[] { 1, 2, 3, 4 ,5 };
+            arr[2] = new int[] { 1, 2, 3, 4, 5, 6 };
 
-            for (int i = 0; i < str.Length; i++)
+            for(int i = 0; i < arr.Length; i++)
             {
-                char a = str[i];
-                switch (a)
+                for (int j = 0; j < arr[i].Length; j++)
                 {
-                    case 'a':
-                    case 'e':
-                    case 'i':
-                    case 'o':
-                    case 'u':
-                        Console.WriteLine(a + " is a vowel");
-                        vowels++;
-                        break;
-                    default:
-                        Console.WriteLine(a + " is not a vowel");
-                        break;
+                    Console.Write(arr[i][j]+" ");
                 }
+                Console.WriteLine();
             }
-            Console.WriteLine("Totel number of vowels is "+vowels);
 
             Console.ReadKey();
         }
