@@ -10,16 +10,30 @@ namespace Temp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a string");
             String str = Console.ReadLine();
             int vowels = 0;
+
             for (int i = 0; i < str.Length; i++)
             {
-                if (str[i] == 'a' || str[i] == 'e' || str[i] == 'i' || str[i] == 'o' || str[i] == 'u'){
-                    vowels++;
+                char a = str[i];
+                switch (a)
+                {
+                    case 'a':
+                    case 'e':
+                    case 'i':
+                    case 'o':
+                    case 'u':
+                        Console.WriteLine(a + " is a vowel");
+                        vowels++;
+                        break;
+                    default:
+                        Console.WriteLine(a + " is not a vowel");
+                        break;
                 }
             }
+            Console.WriteLine("Totel number of vowels is "+vowels);
 
-            Console.WriteLine("Number of vowels present in the string is " + vowels);
             Console.ReadKey();
         }
     }

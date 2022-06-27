@@ -1,0 +1,8 @@
+D:\Projects\C#\ReverseStr\ReverseStr\bin\Debug\ReverseStr.exe.config
+D:\Projects\C#\ReverseStr\ReverseStr\bin\Debug\ReverseStr.exe
+D:\Projects\C#\ReverseStr\ReverseStr\bin\Debug\ReverseStr.pdb
+D:\Projects\C#\ReverseStr\ReverseStr\obj\Debug\ReverseStr.csproj.AssemblyReference.cache
+D:\Projects\C#\ReverseStr\ReverseStr\obj\Debug\ReverseStr.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\ReverseStr\ReverseStr\obj\Debug\ReverseStr.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ReverseStr\ReverseStr\obj\Debug\ReverseStr.exe
+D:\Projects\C#\ReverseStr\ReverseStr\obj\Debug\ReverseStr.pdb

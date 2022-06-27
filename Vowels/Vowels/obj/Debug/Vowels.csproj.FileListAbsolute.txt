@@ -1,0 +1,8 @@
+D:\Projects\C#\Vowels\Vowels\obj\Debug\Vowels.csproj.AssemblyReference.cache
+D:\Projects\C#\Vowels\Vowels\obj\Debug\Vowels.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Vowels\Vowels\obj\Debug\Vowels.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Vowels\Vowels\bin\Debug\Vowels.exe.config
+D:\Projects\C#\Vowels\Vowels\bin\Debug\Vowels.exe
+D:\Projects\C#\Vowels\Vowels\bin\Debug\Vowels.pdb
+D:\Projects\C#\Vowels\Vowels\obj\Debug\Vowels.exe
+D:\Projects\C#\Vowels\Vowels\obj\Debug\Vowels.pdb

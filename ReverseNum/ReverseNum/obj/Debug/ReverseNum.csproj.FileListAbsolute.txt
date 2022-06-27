@@ -1,0 +1,8 @@
+D:\Projects\C#\ReverseNum\ReverseNum\bin\Debug\ReverseNum.exe.config
+D:\Projects\C#\ReverseNum\ReverseNum\bin\Debug\ReverseNum.exe
+D:\Projects\C#\ReverseNum\ReverseNum\bin\Debug\ReverseNum.pdb
+D:\Projects\C#\ReverseNum\ReverseNum\obj\Debug\ReverseNum.csproj.AssemblyReference.cache
+D:\Projects\C#\ReverseNum\ReverseNum\obj\Debug\ReverseNum.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\ReverseNum\ReverseNum\obj\Debug\ReverseNum.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ReverseNum\ReverseNum\obj\Debug\ReverseNum.exe
+D:\Projects\C#\ReverseNum\ReverseNum\obj\Debug\ReverseNum.pdb
