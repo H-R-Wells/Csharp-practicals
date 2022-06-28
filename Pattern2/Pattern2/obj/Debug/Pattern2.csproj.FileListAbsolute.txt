@@ -1,0 +1,8 @@
+D:\Projects\C#\Pattern2\Pattern2\bin\Debug\Pattern2.exe.config
+D:\Projects\C#\Pattern2\Pattern2\bin\Debug\Pattern2.exe
+D:\Projects\C#\Pattern2\Pattern2\bin\Debug\Pattern2.pdb
+D:\Projects\C#\Pattern2\Pattern2\obj\Debug\Pattern2.csproj.AssemblyReference.cache
+D:\Projects\C#\Pattern2\Pattern2\obj\Debug\Pattern2.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\Pattern2\Pattern2\obj\Debug\Pattern2.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Pattern2\Pattern2\obj\Debug\Pattern2.exe
+D:\Projects\C#\Pattern2\Pattern2\obj\Debug\Pattern2.pdb

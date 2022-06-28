@@ -1,0 +1,8 @@
+D:\Projects\C#\PatternAlternate\PatternAlternate\bin\Debug\PatternAlternate.exe.config
+D:\Projects\C#\PatternAlternate\PatternAlternate\bin\Debug\PatternAlternate.exe
+D:\Projects\C#\PatternAlternate\PatternAlternate\bin\Debug\PatternAlternate.pdb
+D:\Projects\C#\PatternAlternate\PatternAlternate\obj\Debug\PatternAlternate.csproj.AssemblyReference.cache
+D:\Projects\C#\PatternAlternate\PatternAlternate\obj\Debug\PatternAlternate.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\PatternAlternate\PatternAlternate\obj\Debug\PatternAlternate.csproj.CoreCompileInputs.cache
+D:\Projects\C#\PatternAlternate\PatternAlternate\obj\Debug\PatternAlternate.exe
+D:\Projects\C#\PatternAlternate\PatternAlternate\obj\Debug\PatternAlternate.pdb
